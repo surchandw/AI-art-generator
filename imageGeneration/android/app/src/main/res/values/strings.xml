@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Image Generator</string>
+    <string name="back_button">Back</string>
+    <string name="generate_image">Generate Image</string>
+    <string name="generated_image">Generated Image</string>
+    <string name="image_picker">Image Picker</string>
+    <string name="enhance_image">Enhance Image</string>
+    <string name="enhanced_image">Enhanced Image</string>
+    <string name="generate_video">Generate Video</string>
+    <string name="generated_video">Generated Video</string>
+    <string name="settings">Settings</string>
+    <string name="error">Error</string>
+    <string name="image_description">Describe the image you want to generate.</string>
+    <string name="more_feature">More features &amp; no ads</string>
+    <string name="watch_ad">Watch an Ad</string>
+    <string name="watch_two_ads">Watch two Ads</string>
+    <string name="subscribe">Subscribe Pro</string>
+    <string name="fetch_video">Fetch Video</string>
+    <string name="take_picture">Take picture</string>
+    <string name="select_image">Choose Image</string>
+    <string name="try_sample">Try Sample</string>
+    <string name="save_image">Save Image</string>
+    <string name="share_image">Share Image</string>
+    <string name="save_video">Save Video</string>
+    <string name="share_video">Share Video</string>
+    <string name="prompt">Describe what you wish to see in the output image that clearly defines elements, colors, and subjects etc.</string>
+    <string name="negative_prompt">Describe what you do not wish to see in the output image.</string>
+    <string name="before">Before</string>
+    <string name="after">After</string>
+    <string name="text_to_image">Generate Text to Image</string>
+    <string name="upscale_image">Upscale Image</string>
+    <string name="image_to_video">Generate Image to Video</string>
+    <!-- Error message section -->
+    <string name="internal_error">Internal Error</string>
+    <string name="internal_error_msg">Internal error occurred. Please try after some time.</string>
+    <string name="content_violation">Content violation</string>
+    <string name="content_violation_msg">Content moderation system flagged request</string>
+    <string name="file_size_error">File size exceeds limit</string>
+    <string name="file_size_error_msg">Uploaded image size exceeds allowed limit(10MiB)</string>
+    <string name="unsupported_language_error">File size exceeds limit</string>
+    <string name="unsupported_language_error_msg">Uploaded image size exceeds allowed limit(10MiB)</string>
+    <string name="max_call_error">Call exceeds limit</string>
+    <string name="max_call_error_msg">Call exceeds allowed limit</string>
+    <!-- Other error message section -->
+    <string name="no_image_description">No image description</string>
+    <string name="no_image_description_msg">Please provide the description of the image to be generated</string>
+    <string name="ad_failed_to_load">Ad failed to load</string>
+    <string name="ad_failed_to_load_msg">Please try after sometime</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_internet_connection_msg">You are not connected to the internet. Make sure that Wi-Fi or mobile data is turned on, then try again.</string>
+    <string name="no_enhance_image_description">No enhance image description</string>
+    <string name="no_enhance_image_description_msg">Describe what you want to see in the output image.</string>
+
+
+</resources>

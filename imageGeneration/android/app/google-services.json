@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "879121531577",
+    "project_id": "generativeai-test-1b13b",
+    "storage_bucket": "generativeai-test-1b13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879121531577:android:4ff36c6238397725045168",
+        "android_client_info": {
+          "package_name": "antsearth.com.imagegenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-OBpS4C-sPiJc1lxx6_BH8Bu-WcJ_Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879121531577:android:99a793663fc56896045168",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.deeplinks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-OBpS4C-sPiJc1lxx6_BH8Bu-WcJ_Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879121531577:android:2af2912cb7288d91045168",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.vertexai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-OBpS4C-sPiJc1lxx6_BH8Bu-WcJ_Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

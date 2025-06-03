@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--external-path name="cache" path="/" /-->
+    <!-- Require for taking pictures -->
+    <external-cache-path name="cache" path="/" />
+    <!-- Require for sharing video file from cache -->
+    <cache-path name="." path="/" />
+    <external-files-path name="images" path="Pictures/" />
+
+
+<!-- References
+    <files-path/> -> Context.getFilesDir()
+    <cache-path/> -> Context.getCacheDir()
+    <external-path/> -> Environment.getExternalStorageDirectory()
+    <external-files-path/> -> Context.getExternalFilesDir(String)
+    <external-cache-path/> -> Context.getExternalCacheDir()
+    <external-media-path/> -> Context.getExternalMediaDirs() -->
+</paths>
